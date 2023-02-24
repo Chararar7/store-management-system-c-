@@ -1,0 +1,12 @@
+Acacia 0 2
+Dahlia 30 2.75
+Daisy 16 2.25
+Delphinium 15 3
+Gardenia 6 3.25
+Geranium 28 1.5
+Iris 20 2.5
+Lavender 4 3
+Lily 78 1.5
+Orchid 25 2
+Rose 12 2.5
+Tulip 56 1.75
